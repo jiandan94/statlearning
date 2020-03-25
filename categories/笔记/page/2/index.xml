@@ -1,14 +1,41 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>多元回归 on 幽篁里</title>
-    <link>https://jiandan94.github.io/tags/%E5%A4%9A%E5%85%83%E5%9B%9E%E5%BD%92/</link>
-    <description>Recent content in 多元回归 on 幽篁里</description>
+    <title>笔记 on 幽篁里</title>
+    <link>https://jiandan94.github.io/categories/%E7%AC%94%E8%AE%B0/</link>
+    <description>Recent content in 笔记 on 幽篁里</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Sun, 15 Mar 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 23 Mar 2020 00:00:00 +0000</lastBuildDate>
     
-        <atom:link href="https://jiandan94.github.io/tags/%E5%A4%9A%E5%85%83%E5%9B%9E%E5%BD%92/index.xml" rel="self" type="application/rss+xml" />
+        <atom:link href="https://jiandan94.github.io/categories/%E7%AC%94%E8%AE%B0/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>无题</title>
+      <link>https://jiandan94.github.io/2016/05/wt/</link>
+      <pubDate>Wed, 11 May 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://jiandan94.github.io/2016/05/wt/</guid>
+      <description>最喜欢这首诗！也许我天生就是一个懒散的人吧~ 独坐轩窗向小楼， 斜阳灼灼木幽幽。 懒理红尘烦扰事， 遥映菱花慢梳头。</description>
+    </item>
+    
+    <item>
+      <title>初雪</title>
+      <link>https://jiandan94.github.io/2016/01/cx/</link>
+      <pubDate>Fri, 22 Jan 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://jiandan94.github.io/2016/01/cx/</guid>
+      <description>北风呼号雪飘飘，一人在家甚无聊。 前日刚说有雨雪，明朝又要防寒潮。 漫将闲书消冷寂，且煮陈茶度寒宵。 无意庭院凄风紧，腊梅残落竟逍遥。</description>
+    </item>
+    
+    <item>
+      <title>冬日虎溪</title>
+      <link>https://jiandan94.github.io/2015/12/winter-huxi/</link>
+      <pubDate>Fri, 04 Dec 2015 00:00:00 +0000</pubDate>
+      
+      <guid>https://jiandan94.github.io/2015/12/winter-huxi/</guid>
+      <description>说起虎溪的冬天，第一反应也许就是那些浸淫着寒风冷雨的灰色画面撺掇起来的时节；因为就是在整个渝州，晴朗的日子也是很少遇上的。 可是今早起床，掀开</description>
+    </item>
     
     <item>
       <title>中秋有感</title>
