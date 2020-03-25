@@ -73,13 +73,6 @@
   </url>
   
   <url>
-    <loc>https://jiandan94.github.io/tags/%E5%B9%BF%E4%B9%89%E7%BA%BF%E6%80%A7%E6%A8%A1%E5%9E%8B/</loc>
-    <lastmod>2020-03-15T00:00:00+00:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
     <loc>https://jiandan94.github.io/2020/03/logistic-regression/</loc>
     <lastmod>2020-03-15T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
@@ -178,28 +171,7 @@
   </url>
   
   <url>
-    <loc>https://jiandan94.github.io/tags/%E6%9C%80%E5%B0%8F%E4%BA%8C%E4%B9%98%E6%B3%95/</loc>
-    <lastmod>2019-08-02T00:00:00+00:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>https://jiandan94.github.io/tags/%E6%9E%81%E5%A4%A7%E4%BC%BC%E7%84%B6%E6%B3%95/</loc>
-    <lastmod>2019-08-02T00:00:00+00:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
     <loc>https://jiandan94.github.io/2019/08/forum-ols/</loc>
-    <lastmod>2019-08-02T00:00:00+00:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>https://jiandan94.github.io/tags/%E7%BA%BF%E6%80%A7%E6%A8%A1%E5%9E%8B/</loc>
     <lastmod>2019-08-02T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
@@ -214,6 +186,13 @@
   
   <url>
     <loc>https://jiandan94.github.io/2019/07/simplelm/</loc>
+    <lastmod>2019-07-26T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://jiandan94.github.io/tags/%E7%BA%BF%E6%80%A7%E6%A8%A1%E5%9E%8B/</loc>
     <lastmod>2019-07-26T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
