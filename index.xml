@@ -20,15 +20,6 @@
     </item>
     
     <item>
-      <title>广义线性模型及其一般求解方式</title>
-      <link>https://jiandan94.github.io/2020/03/glm/</link>
-      <pubDate>Sun, 15 Mar 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://jiandan94.github.io/2020/03/glm/</guid>
-      <description>线性模型的局限性 在线性模型中，一个重要的条件便是响应变量 $y$ 须服从正态分布。然而，实际问题往往更加复杂，$y$ 并不总是满足正态分布的假设。</description>
-    </item>
-    
-    <item>
       <title>逻辑回归模型</title>
       <link>https://jiandan94.github.io/2020/03/logistic-regression/</link>
       <pubDate>Sun, 15 Mar 2020 00:00:00 +0000</pubDate>
@@ -74,11 +65,11 @@
     </item>
     
     <item>
-      <title>线性回归模型简介</title>
-      <link>https://jiandan94.github.io/2019/07/lm/</link>
+      <title>简单回归分析的R实现</title>
+      <link>https://jiandan94.github.io/2019/07/simplelm/</link>
       <pubDate>Fri, 26 Jul 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://jiandan94.github.io/2019/07/lm/</guid>
+      <guid>https://jiandan94.github.io/2019/07/simplelm/</guid>
       <description>1 导言 回归分析是一个古老的话题。一百多年前，英国的统计学家高尔顿 (F. Galton，1822-1911) 和他的学生皮尔逊 (K. Pearson，185</description>
     </item>
     
@@ -101,12 +92,48 @@
     </item>
     
     <item>
+      <title>广义线性模型及其一般求解方式</title>
+      <link>https://jiandan94.github.io/2018/06/glm/</link>
+      <pubDate>Fri, 15 Jun 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://jiandan94.github.io/2018/06/glm/</guid>
+      <description>1 指数族分布与广义线性模型 1.1 引入指数族分布 在线性模型中，一个重要的条件便是响应变量 $y$ 须服从正态分布。然而，实际问题中 $y$ 并不总是满足正态分布的</description>
+    </item>
+    
+    <item>
+      <title>线性模型的理论与求解</title>
+      <link>https://jiandan94.github.io/2018/05/lm/</link>
+      <pubDate>Fri, 18 May 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://jiandan94.github.io/2018/05/lm/</guid>
+      <description>等待更新。</description>
+    </item>
+    
+    <item>
+      <title>非线性模型的参数估计和统计性质</title>
+      <link>https://jiandan94.github.io/2018/04/nlm/</link>
+      <pubDate>Fri, 20 Apr 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://jiandan94.github.io/2018/04/nlm/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>夜雨清明</title>
       <link>https://jiandan94.github.io/2018/04/yyqm/</link>
       <pubDate>Wed, 04 Apr 2018 00:00:00 +0000</pubDate>
       
       <guid>https://jiandan94.github.io/2018/04/yyqm/</guid>
       <description>惊雷起， 一霎清明夜雨袭。 帘外风轻， 潺潺春语， 入梦浇睡意。 心思尽去残花里。 流水无情空悲寂。 明朝晓看红湿处， 杨柳依依， 梨花风起， 愁染缙纭堤。</description>
+    </item>
+    
+    <item>
+      <title>本科毕设致谢</title>
+      <link>https://jiandan94.github.io/2017/06/bkbszx/</link>
+      <pubDate>Thu, 15 Jun 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://jiandan94.github.io/2017/06/bkbszx/</guid>
+      <description>渝州故郡，重庆新府。横断巴楚，环扣水枢。三都之地，嘉陵长江汇韵；四方要冲，名家骚客聚属。都督刘公之雅望，重大建始；校长叶公之懿范，往来鸿儒。</description>
     </item>
     
     <item>
@@ -161,33 +188,6 @@
       
       <guid>https://jiandan94.github.io/2016/05/xryg/</guid>
       <description>盛夏偏作晚秋天， 小晴忽复雨涟涟。 一任灯花自消落， 辗转心思顾影怜。</description>
-    </item>
-    
-    <item>
-      <title>无题</title>
-      <link>https://jiandan94.github.io/2016/05/wt/</link>
-      <pubDate>Wed, 11 May 2016 00:00:00 +0000</pubDate>
-      
-      <guid>https://jiandan94.github.io/2016/05/wt/</guid>
-      <description>最喜欢这首诗！也许我天生就是一个懒散的人吧~ 独坐轩窗向小楼， 斜阳灼灼木幽幽。 懒理红尘烦扰事， 遥映菱花慢梳头。</description>
-    </item>
-    
-    <item>
-      <title>初雪</title>
-      <link>https://jiandan94.github.io/2016/01/cx/</link>
-      <pubDate>Fri, 22 Jan 2016 00:00:00 +0000</pubDate>
-      
-      <guid>https://jiandan94.github.io/2016/01/cx/</guid>
-      <description>北风呼号雪飘飘，一人在家甚无聊。 前日刚说有雨雪，明朝又要防寒潮。 漫将闲书消冷寂，且煮陈茶度寒宵。 无意庭院凄风紧，腊梅残落竟逍遥。</description>
-    </item>
-    
-    <item>
-      <title>冬日虎溪</title>
-      <link>https://jiandan94.github.io/2015/12/winter-huxi/</link>
-      <pubDate>Fri, 04 Dec 2015 00:00:00 +0000</pubDate>
-      
-      <guid>https://jiandan94.github.io/2015/12/winter-huxi/</guid>
-      <description>说起虎溪的冬天，第一反应也许就是那些浸淫着寒风冷雨的灰色画面撺掇起来的时节；因为就是在整个渝州，晴朗的日子也是很少遇上的。 可是今早起床，掀开</description>
     </item>
     
   </channel>
