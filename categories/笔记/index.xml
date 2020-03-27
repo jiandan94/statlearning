@@ -5,7 +5,7 @@
     <link>https://jiandan94.github.io/categories/%E7%AC%94%E8%AE%B0/</link>
     <description>Recent content in 笔记 on 幽篁里</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Mon, 23 Mar 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 15 Mar 2020 00:00:00 +0000</lastBuildDate>
     
         <atom:link href="https://jiandan94.github.io/categories/%E7%AC%94%E8%AE%B0/index.xml" rel="self" type="application/rss+xml" />
     
@@ -89,6 +89,15 @@
       
       <guid>https://jiandan94.github.io/2018/08/qx/</guid>
       <description>晴岚裙腰山染黛， 空谷幽幽暗香来。 时人剪却好风光， 月下说与娇娘猜。</description>
+    </item>
+    
+    <item>
+      <title>广义估计方程简介</title>
+      <link>https://jiandan94.github.io/2018/06/gee/</link>
+      <pubDate>Fri, 22 Jun 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://jiandan94.github.io/2018/06/gee/</guid>
+      <description>本文总结了广义估计方程中的参数估计，并推导了用于求解模型的Gauss—Newton迭代法。此外，针对每个内容，本文还给出了相应的R软件求解算</description>
     </item>
     
     <item>
@@ -179,15 +188,6 @@
       
       <guid>https://jiandan94.github.io/2016/06/syjy/</guid>
       <description>骤雨如烟喧小楼， 群芳摇落意无休。 望断巴山犹未尽， 点点雨丝点点愁。</description>
-    </item>
-    
-    <item>
-      <title>夏日有感</title>
-      <link>https://jiandan94.github.io/2016/05/xryg/</link>
-      <pubDate>Thu, 26 May 2016 00:00:00 +0000</pubDate>
-      
-      <guid>https://jiandan94.github.io/2016/05/xryg/</guid>
-      <description>盛夏偏作晚秋天， 小晴忽复雨涟涟。 一任灯花自消落， 辗转心思顾影怜。</description>
     </item>
     
   </channel>
