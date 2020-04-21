@@ -42,7 +42,7 @@
 <meta itemprop="description" content="1 指数族分布与广义线性模型 1.1 引入指数族分布 在线性模型中，一个重要的条件便是响应变量 $y$ 须服从正态分布。然而，实际问题中 $y$ 并不总是满足正态分布的">
 <meta itemprop="datePublished" content="2018-06-15T00:00:00&#43;00:00" />
 <meta itemprop="dateModified" content="2018-06-15T00:00:00&#43;00:00" />
-<meta itemprop="wordCount" content="5951">
+<meta itemprop="wordCount" content="5737">
 
 
 
@@ -337,7 +337,7 @@
 	</span>
         <span class="post-comment"><i class="icon icon-comment"></i>&nbsp;<a href="/2018/06/glm/#comments"
             class="article-comment-link">评论</a></span>
-		<span class="post-wordcount hidden-xs" itemprop="wordCount">字数统计: 5951字</span>
+		<span class="post-wordcount hidden-xs" itemprop="wordCount">字数统计: 5737字</span>
 		<span class="post-readcount hidden-xs" itemprop="timeRequired">阅读时长: 12分 </span>
       </div>
     </div>
@@ -498,28 +498,9 @@ $$</p>
 &amp;=\beta +I\left( \beta \right) ^{-1}D^{\mathrm{T}}V^{-1}\left( y-\mu \right)
 \end{split}
 $$</p>
-<h3 id="23-渐近正态性">2.3 渐近正态性</h3>
-<p>根据得到的估计量的近似表达式，其中等式右侧只有 $y$ 是服从正态分布的随机变量，那么得到的参数估计可以看成正态随机变量一个线性组合，显然估计量也服从正态分布，故而只需要求其均值和方差即可。</p>
-<p>$\hat{\beta}$ 的均值</p>
-<p>$$
-E\hat{\beta}=E\left[ \beta +I\left( \beta \right) ^{-1}D^{\mathrm{T}}V^{-1}\left( y-\mu \right) \right] =\beta
-$$</p>
-<p>$\hat{\beta}$ 的方差</p>
-<p>$$
-\begin{split}
-Var\left( \hat{\beta} \right) &amp;=Var\left[ \beta +I\left( \beta \right) ^{-1}D^{\mathrm{T}}V^{-1}\left( y-\mu \right) \right]
-\newline
-&amp;=Var\left[ I\left( \beta \right) ^{-1}D^{\mathrm{T}}V^{-1}\left( y-\mu \right) \right]
-\newline
-&amp;=I\left( \beta \right) ^{-1}D^{\mathrm{T}}V^{-1}Var\left( y-\mu \right) V^{-1}DI\left( \beta \right) ^{-1}
-\newline
-&amp;=I\left( \beta \right) ^{-1}\left( D^{\mathrm{T}}V^{-1}D \right) I\left( \beta \right) ^{-1}
-\newline
-&amp;=I\left( \beta \right) ^{-1}
-\end{split}
-$$</p>
-<p>所以，可知估计量服从 $N\left( \beta ,I\left( \beta \right) ^{-1} \right)$。有了渐近分布，我们就能构造显著性检验了。</p>
-<h3 id="24-拟似然方法">2.4 拟似然方法</h3>
+<!-- raw HTML omitted -->
+<!-- raw HTML omitted -->
+<h3 id="23-拟似然方法">2.3 拟似然方法</h3>
 <p>广义线性模型中对于分布有前提假设，但是实际问题中并不知道具体的分布是什么。考虑到在求解问题中一个重要的信息就是信息函数，它和分布前两阶矩有关，故而可以假设分布的前两阶矩存在，从而推出不含分布信息的拟似然方法。</p>
 <p>假定响应变量 $y_i$ 的均值为 $\mu_i$，方差函数为 $\mathrm{Var}y_i=a\left( \phi \right) \mathrm{Var} _{\mu _i}$，并且假定均值 $\mu_i$ 和 $x_i^T\beta$ 之间存在链结函数，链结函数的性质和广义线性模型的链结函数性质一样。据此，根据广义线性模型的思想实施拟似然方法。</p>
 <p>构造逆得分函数</p>
